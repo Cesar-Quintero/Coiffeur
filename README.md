@@ -35,7 +35,7 @@ I learned that creating a successful project, isn't determined by it's complexit
 <a target="_blank" href="https://github.com/Cesar-Quintero/donut-king">Donut King</a>
       <br />
         <a target="_blank" href="https://github.com/Cesar-Quintero/donut-king">
-          <img src="RMimages/donutKingScreenshot.png" width="100%" alt="Donut King"/>
+          <img src="RMimages/DKScreenshot.png" width="100%" alt="Donut King"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
