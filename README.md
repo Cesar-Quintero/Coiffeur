@@ -1,4 +1,4 @@
-# Portfolio Website : <a target="_blank" href="https://coiffeur.netlify.app/">Visit Here</a>
+# Coiffeur : <a target="_blank" href="https://coiffeur.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://coiffeur.netlify.app/">
 <img src="RMimages/CoiffeurScreenshot.png" width="100%" alt="Coiffeur"/>
