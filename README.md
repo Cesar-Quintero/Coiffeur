@@ -1,7 +1,7 @@
 # Coiffeur : <a target="_blank" href="https://coiffeur.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://coiffeur.netlify.app/">
-<img src="RMimages/CoiffeurScreenshot.png" width="100%" alt="Coiffeur"/>
+<img src="https://media1.giphy.com/media/Kb14oKsTBZ755MVznM/giphy.gif?cid=790b76110eab55d7ad7496457ad220a04dd796803baa37ad&rid=giphy.gif&ct=g" width="100%" alt="Coiffeur"/>
 </a>
 
 ### A fully responsive, beautiful, and modern website for an on-trend full-service salon.
